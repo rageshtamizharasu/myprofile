@@ -1,6 +1,6 @@
 Hi 👋 My name is Ragesh
 =======================
-Learning DevOps
+To Obtain a Challenging position in the field of DevOps where a background in the design, implementation, and deliverance of software and infrastructure can be used within the organization to secure performance, latency, and efficacy. 
 
 * 🌍  I'm based in India
 * 🧠  I'm learning DevOps
