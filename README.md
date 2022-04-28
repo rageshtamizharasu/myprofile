@@ -3,7 +3,7 @@ Hi 👋 My name is Ragesh
 To Obtain a Challenging position in the field of DevOps where a background in the design, implementation, and deliverance of software and infrastructure can be used within the organization to secure performance, latency, and efficacy. 
 
 * 🌍  I'm based in India
-* 🧠  I'm learning DevOps
+* 🧠  Keep Learning DevOps
 ### Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="Git" /></a>
@@ -18,6 +18,7 @@ To Obtain a Challenging position in the field of DevOps where a background in th
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 
 </p>
+<p><strong>TECHNICAL SKILL SET &nbsp;</strong></p>
 <table border="1">
     <tbody>
         <tr>
