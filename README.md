@@ -18,3 +18,231 @@ To Obtain a Challenging position in the field of DevOps where a background in th
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 
 </p>
+<table border="1">
+    <tbody>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Operating System&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Linux, Windows&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Version Control&nbsp;System&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>GIT,&nbsp;GitHub, GitLab&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Build Tools&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Maven&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>CI/ CD Tool&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Jenkins &nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Containers&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Docker&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Artifactory&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Nexus Repository&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Container Orchestration&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Kubernetes&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Configuration Management&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Ansible&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Infrastructure Provisioning&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Terraform&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Cloud Platform&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>AWS,&nbsp;Azure, Linode ,Digital Ocean&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Infrastructure Monitoring&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Prometheus&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Data Analytics&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Grafana&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Programming language&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Python&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <div>
+                        <p>Remote Access Platform&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <div>
+                        <p>Microsoft RDP&nbsp;</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
